@@ -1,0 +1,13 @@
+{
+  "name": "soap-practica",
+  "version": "1.0.0",
+  "description": "Práctica de servicios web SOAP con Express y WSDL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "soap": "^1.0.0"
+  }
+}
